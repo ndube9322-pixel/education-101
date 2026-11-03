@@ -1,0 +1,15 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width">
+<title>Ingabade Hub - Sphamandla Dube</title>
+<style>body{font-family:Arial;padding:15px;max-width:700px;margin:auto;background:#f0fdf4}
+h1{background:#0f172a;color:white;padding:15px;text-align:center;border-radius:10px}
+.card{background:white;padding:15px;margin:10px 0;border-radius:10px;border-left:4px solid #16a34a}
+a{color:#16a34a;font-weight:bold} .green{background:#16a34a;color:white;padding:15px;text-align:center;border-radius:10px}</style>
+</head><body>
+<h1>INGABADE STUDY HUB ♻️<br><small>By Sphamandla N. Dube</small></h1>
+<div class="green">FREE Notes & Past Papers<br>Clones WiFi: FREE 100MB Daily<br>Bring Recycling = Extra Data</div>
+<div class="card"><h3>Grade 12</h3><a href="#">Maths Lit Past Papers</a><br><a href="#">English Notes</a><br><a href="#">Life Sciences</a></div>
+<div class="card"><h3>Grade 11</h3><a href="#">Notes Coming</a></div>
+<div class="card"><h3>Grade 10</h3><a href="#">Notes Coming</a></div>
+<div class="card"><h3>♻️ GreenCycle</h3><p>1kg paper/plastic = 100MB extra<br>Clean Dundee Project</p><p>WhatsApp: [Add your number]</p></div>
+<div class="card"><p><b>For Teachers:</b> This site is free, hosted on GitHub, built by local youth to help Ingabade learners.</p></div>
+</body></html>
